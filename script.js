@@ -706,7 +706,7 @@
 // }   
 
 
-// console.log(`${circle1.area()} площадь`);
-// console.log(`${circle2.area()} площадь`);
+// console.log(circle1.area());
+// console.log(circle2.area());
 // console.log(circle1.perimeter());
 // console.log(circle2.perimeter());
